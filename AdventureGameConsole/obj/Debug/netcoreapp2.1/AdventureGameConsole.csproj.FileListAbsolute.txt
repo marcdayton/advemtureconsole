@@ -1,0 +1,11 @@
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.AssemblyInfoInputs.cache
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.AssemblyInfo.cs
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\bin\Debug\netcoreapp2.1\AdventureGameConsole.deps.json
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\bin\Debug\netcoreapp2.1\AdventureGameConsole.runtimeconfig.json
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\bin\Debug\netcoreapp2.1\AdventureGameConsole.runtimeconfig.dev.json
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\bin\Debug\netcoreapp2.1\AdventureGameConsole.dll
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\bin\Debug\netcoreapp2.1\AdventureGameConsole.pdb
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.dll
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.pdb
+C:\Users\marday\Source\Repos\AdventureGameConsole\AdventureGameConsole\obj\Debug\netcoreapp2.1\AdventureGameConsole.csprojAssemblyReference.cache
